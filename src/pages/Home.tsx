@@ -3,6 +3,7 @@ import ExploreContainer from '../components/ExploreContainer';
 import './Home.css';
 
 const Home: React.FC = () => {
+  console.log('Home sweet home');
   return (
     <IonPage>
       <IonHeader>
